@@ -1,0 +1,9 @@
+[submodule "gradle"]
+	path = gradle
+	url = https://github.com/wilton-iot/tools_gradle.git
+[submodule "android-ndk-r9d-arm-linux-androideabi-4.8"]
+	path = android-ndk-r9d-arm-linux-androideabi-4.8
+	url = https://github.com/staticlibs/android-ndk-r9d-arm-linux-androideabi-4.8.git
+[submodule "sdk"]
+	path = sdk
+	url = https://github.com/wilton-iot/tools_android_sdk.git
