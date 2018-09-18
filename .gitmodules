@@ -10,3 +10,6 @@
 [submodule "libc6_2.15"]
 	path = libc6_2.15
 	url = https://github.com/wilton-iot/tools_android_libc6_2.15.git
+[submodule "adb"]
+	path = adb
+	url = https://github.com/wilton-iot/tools_android_adb.git
